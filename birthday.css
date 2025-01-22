@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+.cover {
+  width: 40%;
+  margin-top: 7%;
+  margin-left: 25%;
+  background-color: rgb(109, 216, 166);
+}
+
+.cover .center {
+  text-align: center;
+}
